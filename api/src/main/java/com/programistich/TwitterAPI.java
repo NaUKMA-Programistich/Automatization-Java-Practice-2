@@ -1,7 +1,7 @@
 package com.programistich;
 
-public class Main {
-    public static void main(String[] args) {
+public class TwitterAPI {
+    public static void test() {
         System.out.println("Hello world!");
     }
 }
